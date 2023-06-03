@@ -1,0 +1,161 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+#img {
+  text-align: center;
+}
+.section {
+  margin-top: 8rem;
+  margin-right: 10%;
+}
+.title {
+  color: black;
+  font-weight: 300;
+}
+.name {
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 53px;
+}
+.desc {
+  font-size: 20px;
+  font-weight: 300;
+  color:black;
+  font-family: cursive;
+  text-align: center;
+}
+.asd{
+  margin: auto;
+float: right;
+  display: flex;
+  width: fit-content;
+  border-radius: 29px;
+  margin-right: 19px;
+  margin-left: 19px;
+  margin-top: 1rem;
+}
+.a1{
+margin: 2px 0px;
+height: 87px;
+}
+.a2{
+margin: -10px 0px;
+height: 108px;
+}
+.a3{
+margin: 1px 1px;
+height: 80px;
+}
+.a4{
+margin: 7px 2px;
+height: 65px;
+}
+.a5{
+margin: -2px 2px;
+height: 78px;
+}
+
+.parent{
+  background-color: black;
+  height: 500px;
+}
+
+.first{
+  background-color: black;
+  color:white;
+}
+.about{
+text-align: center;
+background-color: #f5df4e;
+color: black;
+border: none;
+margin: 0 140px;
+}
+.more{
+text-align: center;
+font-size: 2.5rem;
+color: rgb(142, 142, 142);
+}
+.hi{
+font-size: 42px;
+font-weight: 300;
+width: 52%;
+
+}
+.span{
+  color: #f5df4e;
+  font-size: 46px;
+  font-family: cursive;
+  border-bottom: 2px solid #f5df4e;
+}
+.bio{
+  margin-top: 3%;
+  font-family: cursive;
+  letter-spacing: 3px;
+  color: rgb(142, 142, 142);
+
+}
+.one{
+  font-size: 125px;
+    margin-left: 30%;
+    color: rgb(142, 142, 142);
+
+
+}
+.exp{
+font-size: 30px;
+margin-left: 6%;
+color: rgb(142, 142, 142);
+}
+.gap{
+  margin-top: 4%;
+  padding-bottom: 2%;
+  margin-left: 11%;
+}
+.bio_title{
+  font-weight: 200;
+  color: rgb(142, 142, 142);
+
+}
+.bio_data{
+  font-size: 19px;
+  font-weight: 600;
+  color: rgb(142, 142, 142);
+
+}
+.footer{
+  text-align: center;
+  background-color: #f5df4e;
+padding: 15px;
+
+}
+
+.top{
+  background-color: #f5df4e;
+  color: black;
+  padding: 115px 40px;
+}
+.c_title{
+font-size: 48px;
+font-weight: 500;
+color: black;
+}
+.c_desc{
+  line-height: 1.8;
+  font-size: 21px;
+  margin-bottom: 2%;
+}
+.c_info{
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  font-size: 1.232rem;
+
+}
+.c_ans{
+  font-style: normal;
+  line-height: inherit;
+  margin-bottom: 1rem;
+  font-size: 1.232rem;
+}

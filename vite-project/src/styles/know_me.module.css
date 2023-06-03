@@ -1,0 +1,60 @@
+.more_detail {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: rgb(0, 0, 0);
+}
+.about {
+  text-align: center;
+  background-color: #f5df4e;
+  color: black;
+  border: none;
+  margin: 0 140px;
+}
+.cards_outer {
+  margin-left: 13%;
+  margin-top: 2%;
+}
+.card_title {
+  background-color: aliceblue;
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
+.card_title2 {
+  background-color: rgb(220, 255, 203);
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
+.card_title3 {
+  background-color: rgb(240, 201, 243);
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
+.card_title4 {
+  background-color: rgb(247, 218, 202);
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
+.card_title5 {
+  background-color: rgb(120, 237, 250);
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
+.card_title6 {
+  background-color: rgb(232, 244, 157);
+  padding: 4px;
+  font-weight: 600;
+  font-family: inherit;
+  border-radius: 5px;
+}
